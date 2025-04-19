@@ -1,4 +1,4 @@
-# Fetch Take Home Exercise - Site Reliability Engineering
+# Fetch SRE Exercise
 
 This tools allows user to monitor >1000 endpoints health and report availability percentage (\*) every 15s.
 
