@@ -18,6 +18,16 @@ pip install -r requirements.txt
 python main.py sample.yaml
 ```
 
+## Sample output
+
+```bash
+$ python main.py sample.yaml
+dev-sre-take-home-exercise-rubric.us-east-1.recruiting-public.fetchrewards.com has 50% availability percentage
+---
+dev-sre-take-home-exercise-rubric.us-east-1.recruiting-public.fetchrewards.com has 50% availability percentage
+---
+```
+
 ## Major changes to the code:
 
 1. use package `time` to calculate the endpoint response time, to determine of the endpoint is DOWN or UP.
